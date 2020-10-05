@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [cenah.co.id](https://cenah.co.id)
 - 🌱 I’m currently learning *PHP Unit Test*
 - 🤔 I’m looking for help with *PHP Unit Test*
-- 💬 Ask me about [SemeFramework](https://seme.nyingspot.com)
+- 💬 Ask me about [SemeFramework](https://seme.framework.web.id)
 - 📫 How to reach me: [Instagram](https://instagram.com/drosanda)
 - ⚡ Fun fact: after codes, I love motorcycle
 ---
