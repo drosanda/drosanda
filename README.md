@@ -5,6 +5,7 @@
 
 ---
 - 🔭 I’m currently working on [cenah.co.id](https://cenah.co.id)
+- 🌱 I’m currently Creat SEME ERP
 - 🌱 I’m currently learning *PHP Unit Test*
 - 🤔 I’m looking for help with *PHP Unit Test*
 - 💬 Ask me about [SemeFramework](https://seme.framework.web.id)
