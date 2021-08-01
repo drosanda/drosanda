@@ -8,10 +8,11 @@
 
 
 # Hi there!
-Let me introduce my self, ny name is **Daeng Rosanda**, I now work at [![Cipta Esensi Merenah](https://www.cenah.co.id/favicon.png)](https://www.cenah.co.id/) as Full stack Web Developer. Also, I've running the company as CEO too 😅, but that is not too important.
+Let me introduce my self, ny name is **Daeng Rosanda**, I now work at [![Cipta Esensi Merenah](https://www.cenah.co.id/favicon.png)](https://www.cenah.co.id/) as Full stack Web Developer. Also, I've running the company as CEO too 😅, but it doesn't really matter.
 
 ## Tech Stack
 Here is the tech stack that I've used everyday:
+
 - [x] [SemeFramework](https://seme.framework.web.id)
 - [x] MariaDB 5.x - 10.3
 - [x] MySQL 5.6
@@ -22,6 +23,14 @@ Here is the tech stack that I've used everyday:
 - [x] PHP, I think I can't move on 😝
 - [x] CSS
 - [x] lots of jQuery with little vanilla
+
+
+### My Forgotten Stack
+The old stack that if maybe forgot:
+- [ ] Magento 1.9.x
+- [ ] Apache Cordova
+- [ ] Phonon
+- [ ] WordPress Theme and Plugin
 
 ## My Big Dream
 
