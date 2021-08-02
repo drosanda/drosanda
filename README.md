@@ -11,25 +11,27 @@
 Let me introduce my self, ny name is **Daeng Rosanda**, I now work at [![Cipta Esensi Merenah](https://www.cenah.co.id/favicon.png)](https://www.cenah.co.id/) as Full stack Web Developer. Also, I've running the company as CEO too 😅, but it doesn't really matter.
 
 ## Tech Stack
-Here is the tech stack that I've used everyday:
+This is a table of my habits:
 
-- [x] [SemeFramework](https://seme.framework.web.id)
-- [x] MariaDB 5.x - 10.3
-- [x] MySQL 5.6
-- [x] CentOS 6.x
-- [x] Nginx
-- [x] php-fpm 7.4
-- [x] atom IDE
-- [x] PHP, I think I can't move on 😝
-- [x] CSS
-- [x] lots of jQuery with little vanilla
+| ~~~  | ~~~  |
+|---|---|
+| [Seme Framework Docs](https://seme.framework.web.id) | MariaDB 5.x - 10.3 |
+| MySQL 5.6 | CentOS 6.x |
+| Nginx | php-fpm 7.4 |
+| atom IDE | Advanced SQL |
+| PHP, I think I can't move on 😝 | CSS |
+| lots of jQuery with little vanilla | and another corporate information system |
+| I'm swim at DigitalOcean | Doing blogging at [NyingSpot](https://www.NyingSpot.com) |
+| Demo Stuff [TheCloudAlert](https://www.thecloudalert.com) | HR Web Based Applications |
+| Accounting Web Based Application | and another corporate information system |
+| NuxtJS for static page | In page SEO Optimization |
 
 
 ### My Forgotten Stack
 The old stack that if maybe forgot:
 - [ ] Magento 1.9.x
-- [ ] Apache Cordova
-- [ ] Phonon
+- [X] Apache Cordova
+- [X] Phonon
 - [ ] WordPress Theme and Plugin
 
 ## My Big Dream
@@ -38,7 +40,7 @@ On my way building SEME ERP, but if is not realize so its just a dream 😂.
 
 ## My ~~Personal~~ BIG problem [^1]
 
-[^1]: Looking for help with PHP Unit Test 🤯.
+[^1]: Looking for help with PHP Unit Test 🤯, but finally I can beat them up even a little, so far only 31% covered by it.
 
 ## Fun Fact
 
