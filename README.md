@@ -8,7 +8,7 @@
 
 
 # Hi there!
-Let me introduce my self, ny name is **Daeng Rosanda**, I now work at [![Cipta Esensi Merenah](https://www.cenah.co.id/favicon.png)](https://www.cenah.co.id/) as Full stack Web Developer. Also, I've running the company as CEO too 😅, but it doesn't really matter.
+Let me introduce my self, my name is **Daeng Rosanda**.. Please welcome to my repository. I'm new to Ruby and enjoyed with them.
 
 ## Tech Stack
 This is a table of my habits:
