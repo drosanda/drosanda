@@ -8,13 +8,22 @@
 
 
 # Hi there!
-Let me introduce my self, my name is **Daeng Rosanda**.. Please welcome to my repository. I'm new to Ruby and enjoyed with them.
+Let me introduce my self, my name is **Daeng Rosanda**. Please welcome to my repository. 
+I'm new to Python, Ruby and enjoyed with them.
+
+## Keyboards
+- Maxfit81
+- Rover84
+- Xinmeng M71
 
 ## Tech Stack
 This is a table of my habits:
 
 | ~~~  | ~~~  |
 |---|---|
+| Python 4 months | Java 7 months |
+| Ruby 7 months | Talend ESB 6 Months |
+| Rails 7 months | Ubuntu Server Pro 3 Months |
 | [Seme Framework Docs](https://seme.framework.web.id) | MariaDB 5.x - 10.3 |
 | MySQL 5.6 | CentOS 6.x |
 | Nginx | php-fpm 7.4 |
